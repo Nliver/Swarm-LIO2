@@ -92,7 +92,7 @@ sudo apt-get install cmake
 sudo apt-get install libtbb-dev
 ```
 
-Download **GTSAM** from [Swarm-LIO2 data and dependencies](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/zhufc_connect_hku_hk/EukeIEnyaGJEpIBezJmVGocBSrUpLdXXCpUHPVgdZmk5JQ?e=lutLC0), and
+Download **GTSAM** from [Swarm-LIO2 data and dependencies](https://drive.google.com/drive/folders/17e-Fe5h3LApskJFN_Z0GEGu4ZoavBZsr?usp=sharing), and
 
 ```
 mkdir build
