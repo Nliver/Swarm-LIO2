@@ -148,7 +148,7 @@ roslaunch swarm_lio livox_mid360.launch
 
 ### 6. Play example rosbag
 
-Download example rosbag (real-world data) -- mutual_avoidance_uav1.bag --  from [Swarm-LIO2 data and dependencies](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/zhufc_connect_hku_hk/EukeIEnyaGJEpIBezJmVGocBSrUpLdXXCpUHPVgdZmk5JQ?e=lutLC0), then
+Download example rosbag (real-world data) -- mutual_avoidance_uav1.bag --  from [Swarm-LIO2 data and dependencies](https://drive.google.com/drive/folders/17e-Fe5h3LApskJFN_Z0GEGu4ZoavBZsr?usp=sharing), then
 
 ```
 cd swarm_ws
